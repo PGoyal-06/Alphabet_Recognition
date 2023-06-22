@@ -1,0 +1,1 @@
+Same thing as Digit_Recognition, my previous project, but this time done with alphabets instead of images.
